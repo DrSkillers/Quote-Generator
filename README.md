@@ -4,8 +4,8 @@ cd "Quote Generator ReactJS"
 Run "npm i"
 # Step 3 
 Run 
-npm install -D tailwindcss postcss autoprefixer
-npx tailwindcss init -p
+"npm install -D tailwindcss postcss autoprefixer" and 
+"npx tailwindcss init -p"
 For tailwind classes 
 # Step 4 
 Run "npm run dev" and enjoy the website :)
