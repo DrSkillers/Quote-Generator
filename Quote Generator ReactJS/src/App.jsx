@@ -1,9 +1,9 @@
-import QuoteGenerator2 from "./components/QuoteGenerator";
+import QuoteGenerator from "./components/QuoteGenerator";
 
 function App() {
 	return (
 		<>
-			<QuoteGenerator2 />
+			<QuoteGenerator />
 		</>
 	);
 }
